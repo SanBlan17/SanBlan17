@@ -64,14 +64,28 @@
   como estudiante auxiliar en todo el proceso de desarrollo, aportando en 
   niveles de abstraccion y patrones (Mecanicas, Dinamicas, Cinematicas, entre otras)
 </p>
+<h3>Sistema de Deteccion de Fraudes </h3>
+
+<p>
+  Sistema de Deteccion de Fraudes utilizando el framework Laravel 10, implementando 
+  una arquitectura de microservicios, para tener independencia de cada servicio. Participacion
+  conjunta grupal, en el cual participe en todas las etapas, tanto desarrollo como pruebas
+</p>
+
+<h3>Sistema de Detección de Fraudes 2.0 </h3>
+
+<p>
+  Contenerización del Sistema de Detección de Fraudes utilizando Docker. Participacion
+  conjunta grupal, participando en la implementacion y configuracion de los Contenederos y testing
+</p>
 
 ---
 
 <h2>💻 Habilidades técnicas</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,docker,unity,cs"
-       alt="Python, Java, JavaScript, HTML, Docker, Unity, C-Sharp">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,docker,unity,cs,laravel"
+       alt="Python, Java, JavaScript, HTML, Docker, Unity, C-Sharp, Laravel">
 </p>
 
 <h2>📫 Contacto</h2>
